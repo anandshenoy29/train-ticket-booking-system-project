@@ -32,9 +32,9 @@ To run this project locally, ensure you have the following installed:
 * MySQL Database Server & MySQL Workbench 
 * MySQL Connector JAR file (to connect the application to the database) 
 
-## 🪧 Project Demo
+## 🪧 Project Demonstration
 <div align="center">
-  <a href="https://youtu.be/YOUR_VIDEO_ID_HERE">
+  <a href="https://www.youtube.com/watch?v=DMVS9A16KiA">
     <img src="https://img.youtube.com/vi/YOUR_VIDEO_ID_HERE/0.jpg" alt="Watch the Demo" style="width:100%;">
   </a>
   <p><i>(Add a link to a demo video of TrainEase here, or replace this section with screenshots of your Main Module and Ticket Generation pages!)</i></p>
