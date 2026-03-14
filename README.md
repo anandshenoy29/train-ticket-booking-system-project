@@ -35,6 +35,6 @@ To run this project locally, ensure you have the following installed:
 ## 🪧 Project Demonstration
 <div align="center">
   <a href="https://www.youtube.com/watch?v=DMVS9A16KiA">
-    <img src="https://img.youtube.com/vi/DMVS9A16KiA/0.jpg" alt="Click to Watch" style="width:50%;">
+    <img src="https://img.youtube.com/vi/DMVS9A16KiA/0.jpg" alt="Click to Watch" style="width:100%;">
   </a>
 </div>
