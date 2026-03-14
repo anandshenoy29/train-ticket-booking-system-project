@@ -21,7 +21,7 @@ TrainEase is a specialized Train Ticket Booking System built specifically for th
 * **Database:** MySQL 
 * **IDE:** IntelliJ IDEA 
 
-## Prerequisites
+## 📝 Prerequisites
 
 To run this project locally, ensure that you have the following installed on your machine:
 
