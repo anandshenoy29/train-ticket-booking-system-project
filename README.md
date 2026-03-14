@@ -1,6 +1,6 @@
 # 🚆 TrainEase - Train Ticket Booking System
 
-A desktop-based application designed to facilitate real-time searching and booking of Mumbai Suburban local train tickets efficiently. This system provides a seamless interface for users to navigate train schedules, book tickets, and manage their journey history securely.
+A desktop-based application designed to facilitate searching and booking of Mumbai Suburban local train tickets efficiently. This system provides a user-friendly interface for users to navigate train schedules, book tickets, and manage their journey history.
 
 ## 📖 Overview
 
@@ -14,18 +14,16 @@ TrainEase is a specialized Train Ticket Booking System built specifically for th
 * **Admin Dashboard:** A dedicated portal for administrators to manage user accounts, oversee booking histories, analyze user feedback, and maintain community guidelines.
 * **Intuitive UI:** A user-friendly desktop interface built with customized fonts, colors, and layouts to enhance the overall booking experience.
 
-## 🛠️ Tech Stack
+## 🛠️ Technologies
 
 * **Frontend / GUI:** Java Swing, Java AWT
 * **Backend:** Core Java 
 * **Database:** MySQL 
 * **IDE:** IntelliJ IDEA 
 
-## 🚀 Getting Started
+## Prerequisites
 
-### Prerequisites
-
-To run this project locally, ensure you have the following installed:
+To run this project locally, ensure that you have the following installed on your machine:
 
 * Java Development Kit (JDK) 
 * IntelliJ IDEA (or your preferred Java IDE) 
