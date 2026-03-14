@@ -35,7 +35,6 @@ To run this project locally, ensure you have the following installed:
 ## 🪧 Project Demonstration
 <div align="center">
   <a href="https://www.youtube.com/watch?v=DMVS9A16KiA">
-    <img src="https://img.youtube.com/vi/YOUR_VIDEO_ID_HERE/0.jpg" alt="Watch the Demo" style="width:100%;">
+    <img src="https://img.youtube.com/vi/DMVS9A16KiA/0.jpg" alt="Click to Watch" style="width:100%;">
   </a>
-  <p><i>(Add a link to a demo video of TrainEase here, or replace this section with screenshots of your Main Module and Ticket Generation pages!)</i></p>
 </div>
