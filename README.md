@@ -19,7 +19,6 @@ TrainEase is a specialized Train Ticket Booking System built specifically for th
 * **Frontend / GUI:** Java Swing, Java AWT
 * **Backend:** Core Java 
 * **Database:** MySQL 
-* **IDE:** IntelliJ IDEA 
 
 ## 📝 Prerequisites
 
