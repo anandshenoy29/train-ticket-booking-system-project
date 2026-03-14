@@ -4,4 +4,3 @@
 ⚙️ **Technologies:** Java Swing & JDBC <br>
 ⚙️ **Development Tools:** Java JDK, IntelliJ IDEA & MySQL<br> <br>
 👉🏻 <a href="https://youtu.be/DMVS9A16KiA">Click Here</a> to view the Project demonstration! <br> <br>
-Created by - <a href="https://github.com/anandshenoy29">Mr. Anand Shenoy</a>
