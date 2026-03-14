@@ -30,6 +30,8 @@ To run this project locally, ensure that you have the following installed on you
 * MySQL Connector JAR file (to connect the application to the database) 
 
 ## 🪧 Project Demonstration
+
+Click to watch the demo!
 <div align="center">
   <a href="https://www.youtube.com/watch?v=DMVS9A16KiA">
     <img src="https://img.youtube.com/vi/DMVS9A16KiA/0.jpg" alt="Click to Watch" style="width:100%;">
