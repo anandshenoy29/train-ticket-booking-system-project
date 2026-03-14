@@ -29,7 +29,7 @@ To run this project locally, ensure that you have the following installed on you
 * MySQL Database Server & MySQL Workbench 
 * MySQL Connector JAR file (to connect the application to the database) 
 
-## 🪧 Project Demonstration
+## 🎥 Project Demonstration
 
 Click to watch the demo!
 <div align="center">
