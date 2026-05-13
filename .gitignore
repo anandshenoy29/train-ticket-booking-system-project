@@ -1,0 +1,9 @@
+# IDE specific folders
+.vscode/
+documentation/
+
+# Compiled class files
+*.class
+
+# Log files
+*.log
